@@ -10,7 +10,7 @@ Version: 1.0.0
 
 URL: [https://github.com/ganeshrvel/react-redux-advanced-web-boilerplate](https://github.com/ganeshrvel/react-redux-advanced-web-boilerplate "https://github.com/ganeshrvel/react-redux-advanced-web-boilerplate")
 
-##### Advanced and highly scalable boilerplate built using React v16, Redux v4, Webpack v4 {HMR, Helmet, Loadables, Dynamic Reducer Injection, Selectors, Code splitting}
+##### Advanced and highly scalable boilerplate built for web using React v16, Redux v4, Webpack v4 {HMR, Helmet, Loadables, Dynamic Reducer Injection, Selectors, Code splitting}
 
 ### Features
 - Latest versions of React (v16), Redux (v4), Webpack (v4)
